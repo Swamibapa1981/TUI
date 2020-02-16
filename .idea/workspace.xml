@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdba467b-4c58-4994-8481-df1d1b209bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/relevantcodes/extentreports/extentreports-.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/relevantcodes/extentreports/extentreports-.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/parent/3.11.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okhttp3/parent/3.11.0/parent-3.11.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.13.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.14.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.14.0/okio-parent-1.14.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio-parent/1.14.0/okio-parent-1.14.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.13.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.14.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M9/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream-parent/1.4.10/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream/1.4.10/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-all/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-all/0.18.4/flexmark-all-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-all/0.18.4/flexmark-all-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-all/0.18.4/flexmark-all-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-all/0.18.4/flexmark-all-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-abbreviation/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-abbreviation/0.18.4/flexmark-ext-abbreviation-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-abbreviation/0.18.4/flexmark-ext-abbreviation-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-abbreviation/0.18.4/flexmark-ext-abbreviation-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-abbreviation/0.18.4/flexmark-ext-abbreviation-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-anchorlink/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-anchorlink/0.18.4/flexmark-ext-anchorlink-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-anchorlink/0.18.4/flexmark-ext-anchorlink-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-anchorlink/0.18.4/flexmark-ext-anchorlink-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-anchorlink/0.18.4/flexmark-ext-anchorlink-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-aside/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-aside/0.18.4/flexmark-ext-aside-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-aside/0.18.4/flexmark-ext-aside-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-aside/0.18.4/flexmark-ext-aside-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-aside/0.18.4/flexmark-ext-aside-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-autolink/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-autolink/0.18.4/flexmark-ext-autolink-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-autolink/0.18.4/flexmark-ext-autolink-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-autolink/0.18.4/flexmark-ext-autolink-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-autolink/0.18.4/flexmark-ext-autolink-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-definition/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-definition/0.18.4/flexmark-ext-definition-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-definition/0.18.4/flexmark-ext-definition-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-definition/0.18.4/flexmark-ext-definition-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-definition/0.18.4/flexmark-ext-definition-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-emoji/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-emoji/0.18.4/flexmark-ext-emoji-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-emoji/0.18.4/flexmark-ext-emoji-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-emoji/0.18.4/flexmark-ext-emoji-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-emoji/0.18.4/flexmark-ext-emoji-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-escaped-character/0.18.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-escaped-character/0.18.4/flexmark-ext-escaped-character-0.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-escaped-character/0.18.4/flexmark-ext-escaped-character-0.18.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-escaped-character/0.18.4/flexmark-ext-escaped-character-0.18.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.m2/repository/com/vladsch/flexmark/flexmark-ext-escaped-character/0.18.4/flexmark-ext-escaped-character-0.18.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/KetanArgos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetanArgos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY HOMEWORK1703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My New Project/.idea/My New Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My New Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/.idea/My first Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20032019/.idea/Project20032019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20032019/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20032019/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20032019/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANDIP PROJECT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium Project1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/Resource/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/Resource/Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/ResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/ResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/RunCukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/RunCukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/StepsDef/SearchSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KetanArgos/src/test/java/com/argos/Factory/StepsDef/SearchSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/src/test/java/Features/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/src/test/java/Runner/Testrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/src/test/java/Runner/Testrunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/src/test/java/TESTNG/Argos1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/src/test/java/TESTNG/Argos1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/src/test/java/com/homework/selenium/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/src/test/java/com/homework/selenium/Helpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/ExtentReportsTests/SeleniumTestforExtentReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/ExtentReportsTests/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/META-INF/MavenProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/Runner/Testrunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/target/test-classes/Runner/Testrunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/TESTNG/Argos1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/target/test-classes/TESTNG/Argos1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/target/test-classes/com/homework/selenium/Helpers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/target/test-classes/com/homework/selenium/Helpers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject/test-output/Logintest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject/test-output/Logintest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SANDY/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SANDY/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SANDY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SANDY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../argosdemo/src/test/java/com/argosdemo/stepdefination/ResultSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../argosdemo/src/test/java/com/argosdemo/stepdefination/ResultSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../argosdemo/src/test/resource/Result.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../argosdemo/src/test/resource/Result.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testdemo/src/test/java/com/testdemo/Seleniumtest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testdemo/target/test-classes/com/testdemo/Seleniumtest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Driverfactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Runcuketest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Hook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Stepdefination/Stepdepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyLogFile.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Pages/Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2652#2653#0" expanded="true" />
+                <element signature="e#2683#2684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/Search.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1375">
+              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/Com/TUI/Driverfactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Com/TUI/Hook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Com/TUI/Pages/Page.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/Search.feature" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MyLogFile.log" />
+        <option value="$PROJECT_DIR$/src/test/java/Com/TUI/Runcuketest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Com/TUI/Stepdefination/Stepdepth.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TUI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TUI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1273" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581860447820" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runcuketest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.TUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.TUI" />
+      <option name="MAIN_CLASS_NAME" value="Com.TUI.Runcuketest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runcuketest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdba467b-4c58-4994-8481-df1d1b209bc5" name="Default Changelist" comment="" />
+      <created>1581533456712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581533456712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Runcuketest - 2020.02.14 at 20h 09m 04s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.14 at 20h 13m 18s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.14 at 20h 25m 27s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 13h 29m 58s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 13h 36m 56s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 16h 20m 29s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 20h 07m 51s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 20h 10m 46s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 20h 39m 51s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runcuketest - 2020.02.16 at 20h 43m 58s.xml">
+      <configuration name="Runcuketest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24495289" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32969153" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Stepdefination.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Driverfactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Runcuketest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Hook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLogFile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Pages/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2652#2653#0" expanded="true" />
+            <element signature="e#2683#2684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Search.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/TUI/Stepdefination/Stepdepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
